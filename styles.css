@@ -20,6 +20,8 @@ body{
     flex-basis: 100vh;
     flex-grow: 1;
     flex-shrink: 1;
+    background-image: url('img01.png');
+    background-size: cover;
 }
 .dos{
     background-color: blue;
@@ -27,6 +29,8 @@ body{
     flex-basis: 50vh;
     flex-grow: 1;
     flex-shrink: 1;
+    background-image: url('img02.jpg');
+    background-size: cover;
 }
 .tres{
     background-color: green;
@@ -34,4 +38,6 @@ body{
     flex-basis: 50vh;
     flex-grow: 1;
     flex-shrink: 1;
+    background-image: url('img03.jpg');
+    background-size: cover;
 }
